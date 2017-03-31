@@ -49,4 +49,4 @@ divide = 6 / 3
 To the power of = 10 ** 2
 Remainded (answer will be the remained 1) = 3 % 2
 
-If you want to learn more as this is only the basics you can go on www.codecademy.com to learn more
+If you want to learn more as this is only the basics you can go on www.codecademy.com to learn more by making an account for free
