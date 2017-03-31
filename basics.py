@@ -21,3 +21,9 @@ print("\"Helloworld\"")
 
 #Now try it yourself below:
 
+
+#You can also use booleans to assign true or false to a variable by:
+
+my_bool = True
+
+#This will assign true to the variable my_bool
