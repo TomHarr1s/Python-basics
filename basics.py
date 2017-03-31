@@ -1,6 +1,6 @@
-#To start of with you need to learn how to print text you would do this by:
+#To start of with you need to learn how to print text you would do this by typing this:
 
-print ("Hello world")
+print("Hello world")
 
 #Under this make it print Hello my name is Myles
 
@@ -14,3 +14,10 @@ my_variable = 10
 
 my_variable = 10
 print (my_variable)
+
+#If you want to print speech marks you have to put a backslah in front of them for example:
+
+print("\"Helloworld\"")
+
+#Now try it yourself below:
+
