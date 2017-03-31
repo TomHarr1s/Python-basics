@@ -46,4 +46,5 @@ addition = 72 + 53
 subtraction = 109 - 54
 Multiply = 25 * 3
 divide = 6 / 3 
-
+To the power of = 10 ** 2
+Remainded (answer will be the remained 1) = 3 % 2
