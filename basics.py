@@ -27,3 +27,23 @@ print("\"Helloworld\"")
 my_bool = True
 
 #This will assign true to the variable my_bool
+
+#As you can see we have used "#" to write comments what every you write on the line of a "#" will not effect you code:
+
+#Like this
+
+#You can also use three " so that you can have multipul lines of comments like this (can't see on github):
+
+"""A
+B
+C
+D
+"""
+
+#You can also do maths calculations using Python
+
+addition = 72 + 53
+subtraction = 109 - 54
+Multiply = 25 * 3
+divide = 6 / 3 
+
